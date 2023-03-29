@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>finger.jpg</file>
+        <file>userPic/1001.jpg</file>
+        <file>userPic/1002.jpg</file>
+        <file>userPic/admin.jpg</file>
+        <file>userPic/123.jpg</file>
+        <file>userPic/123456.jpg</file>
+        <file>img/loading.gif</file>
+        <file>img/logo1.png</file>
+        <file>userPic/wait.gif</file>
+        <file>userPic/Black.jpg</file>
+        <file>userPic/cool.jpg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>qss/aqua.qss</file>
+    </qresource>
+</RCC>
